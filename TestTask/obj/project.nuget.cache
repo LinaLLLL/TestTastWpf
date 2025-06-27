@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "xXhe64XN/Xw=",
+  "dgSpecHash": "HeaJlMtmmAQ=",
   "success": true,
   "projectFilePath": "C:\\Users\\linac\\source\\repos\\TestTask\\TestTask\\TestTask.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\linac\\.nuget\\packages\\awssdk.core\\4.0.0.13\\awssdk.core.4.0.0.13.nupkg.sha512",
+    "C:\\Users\\linac\\.nuget\\packages\\awssdk.s3\\4.0.3.1\\awssdk.s3.4.0.3.1.nupkg.sha512",
     "C:\\Users\\linac\\.nuget\\packages\\communitytoolkit.mvvm\\8.4.0\\communitytoolkit.mvvm.8.4.0.nupkg.sha512"
   ],
   "logs": []
