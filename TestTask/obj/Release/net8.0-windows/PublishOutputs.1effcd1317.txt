@@ -1,0 +1,8 @@
+C:\Users\linac\source\repos\TestTask\TestTask\bin\Release\net8.0-windows\publish\TestTask.exe
+C:\Users\linac\source\repos\TestTask\TestTask\bin\Release\net8.0-windows\publish\TestTask.dll
+C:\Users\linac\source\repos\TestTask\TestTask\bin\Release\net8.0-windows\publish\TestTask.deps.json
+C:\Users\linac\source\repos\TestTask\TestTask\bin\Release\net8.0-windows\publish\TestTask.runtimeconfig.json
+C:\Users\linac\source\repos\TestTask\TestTask\bin\Release\net8.0-windows\publish\TestTask.pdb
+C:\Users\linac\source\repos\TestTask\TestTask\bin\Release\net8.0-windows\publish\AWSSDK.Core.dll
+C:\Users\linac\source\repos\TestTask\TestTask\bin\Release\net8.0-windows\publish\AWSSDK.S3.dll
+C:\Users\linac\source\repos\TestTask\TestTask\bin\Release\net8.0-windows\publish\CommunityToolkit.Mvvm.dll

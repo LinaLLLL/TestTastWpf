@@ -84,10 +84,6 @@ namespace TestTask.ViewModels
                 //присваиваем изображение
                 Image = bmp;
             }
-            catch (OperationCanceledException)
-            {
-                // Загрузка была отменена — можно проигнорировать
-            }
             catch (Exception ex)
             {
                 MessageBox.Show($"Ошибка загрузки: {ex.Message}");
